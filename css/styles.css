@@ -87,7 +87,9 @@ address {
 .main-page {
   background-color: #2e2f42;
 }
-.team {
+.team,
+.features,
+.about-prod {
   background-color: #f4f4fd;
 }
 .team-page,
@@ -101,9 +103,7 @@ address {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.features {
-  background-color: #f4f4fd;
-}
+
 .workers,
 .features-descr {
   font-family: 'Roboto', sans-serif;
