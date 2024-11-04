@@ -119,6 +119,8 @@ address {
   color: #2e2f42;
 }
 .team {
+  background-color: #f4f4fd;
+
   color: #f4f4fd;
 }
 .work-gallery {
@@ -165,7 +167,4 @@ address {
 }
 .hidden {
   visibility: hidden;
-}
-.team {
-  background-color: #f4f4fd;
 }
