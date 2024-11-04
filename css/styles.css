@@ -87,10 +87,7 @@ address {
 .main-page {
   background-color: #2e2f42;
 }
-.team,
-.about-prod {
-  background-color: #f4f4fd;
-}
+
 .team-page,
 .portfolio {
   font-family: 'Roboto', sans-serif;
@@ -168,4 +165,7 @@ address {
 }
 .hidden {
   visibility: hidden;
+}
+.team {
+  background-color: #f4f4fd;
 }
