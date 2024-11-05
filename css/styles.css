@@ -168,3 +168,6 @@ address {
 .hidden {
   visibility: hidden;
 }
+ul {
+  list-style-type: none;
+}
